@@ -1,0 +1,91 @@
+export const experiencesEn = [
+    {
+        title: "Unreal developer",
+        company: 'CaptivatAR',
+        period: "2023 - 2023 (3 months)",
+        technologies: 'Unreal 5',
+        missions: [
+            "Creation of an aircraft tow trainer in Unreal.",
+        ],
+        detailIsDisplayed: false,
+    },
+    {
+        title: "Web developer",
+        company: 'Akana Master Broker',
+        period: "2023 - 2022 (6 months)",
+        technologies: 'Angular, Wordpress, Hostinger, JS, HTML, CSS',
+        missions: [
+            "Website layout",
+            "Site development in Wordpress",
+            "Website administration",
+            "SEO optimization",
+        ],
+        detailIsDisplayed: false,
+    },
+    {
+        title: "Senior developer",
+        company: 'Ailifehuman',
+        period: "2022 - 2023 (1 year)",
+        technologies: 'Unreal, Angular, Blender, SketchUp, 3dsMax, Photoshop,',
+        missions: [
+            "Blueprint developer",
+            "Cloth simulation", 
+            "Virtual fashion shows",
+            "VR development",
+            "Virtual tours", 
+            "Environment designer",
+        ],
+        detailIsDisplayed: false,
+    },
+    {
+        title: "Web developer",
+        company: 'Integral Studio',
+        period: "2021 - 2022 (7 months)",
+        technologies: 'Angular, HTML, SCSS, JS',
+        missions: [
+            "Website layout",
+            "Site development in Wordpress",
+            "Website administration",
+        ],
+        detailIsDisplayed: false,
+    },
+    {
+        title: "Unreal Senior developer",
+        company: 'VIRALMIND',
+        period: "2020 - 2021 (9 months)",
+        technologies: 'Unreal, SketchUp, 3dsMax, HTML, JS, CSS',
+        missions: [
+            "Blueprint developer",
+            "VR development",
+            "Virtual tours", 
+            "Environment design",
+            "Website administration",
+            "SEO optimization",
+        ],
+        detailIsDisplayed: false,
+    },
+    {
+        title: "Front-End developer",
+        company: 'PLENUMSOFT ENERGY & SUSTAINABILITY',
+        period: "2020 - 2019 (8 months)",
+        technologies: 'Angular, PostgreSQL, HTML, JS, CSS',
+        missions: [
+            "Scrum master",
+            "Planning and implementation of the GIS module for the RSSASISOPA web application.            ",
+            "SEO optimization",
+        ],
+        detailIsDisplayed: false,
+    },
+    {
+        title: "Intern",
+        company: 'BBVA',
+        period: "2019 (6 months)",
+        technologies: 'Angular, PostgreSQL, HTML, JS, CSS',
+        missions: [
+            "Macro programming in Excel. (Visual Basic for Application)",
+            "Tasks automation",
+        ],
+        detailIsDisplayed: false,
+    },
+];
+
